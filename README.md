@@ -1,4 +1,4 @@
 LatexAdventure
 ==============
 
-Essays written in Latex
+Essays and other documents written in Latex.
