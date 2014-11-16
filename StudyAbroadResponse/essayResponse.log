@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.14)  16 NOV 2014 14:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.14)  16 NOV 2014 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -25,41 +25,22 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 ) (./essayResponse.aux)
 \openout1 = `essayResponse.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--83
-
- []
-
-[2] (./essayResponse.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+(./essayResponse.aux) ) 
 Here is how much of TeX's memory you used:
  208 strings out of 495031
  2279 string characters out of 6181530
@@ -67,12 +48,12 @@ Here is how much of TeX's memory you used:
  3498 multiletter control sequences out of 15000+600000
  4591 words of font info for 17 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 23i,4n,17p,184b,109s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb>
-Output written on essayResponse.pdf (2 pages, 47064 bytes).
+ 23i,4n,17p,169b,109s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
+pfb>
+Output written on essayResponse.pdf (2 pages, 47077 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
